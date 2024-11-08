@@ -11,6 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Saving_Warnings(SubVI).vi" Type="VI" URL="../SubVIs/Saving_Warnings(SubVI).vi"/>
 		<Item Name="Visualizacion_NEW.vi" Type="VI" URL="../Visualización/Visualizacion_NEW.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
