@@ -28,7 +28,6 @@
 				<Item Name="SubVIs.lvlib" Type="Library" URL="/&lt;vilib&gt;/Modbus/subvis/SubVIs.lvlib"/>
 				<Item Name="TCP Get Raw Net Object.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Get Raw Net Object.vi"/>
 				<Item Name="TCP Set TCP_NODELAY.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Set TCP_NODELAY.vi"/>
-				<Item Name="Waveform Array To Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Waveform Array To Dynamic.vi"/>
 			</Item>
 			<Item Name="double_2u16.vi" Type="VI" URL="../SubVIs/double_2u16.vi"/>
 			<Item Name="Historical Warnings (SubVI).vi" Type="VI" URL="../SubVIs/Historical Warnings (SubVI).vi"/>
