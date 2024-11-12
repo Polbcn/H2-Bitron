@@ -11,7 +11,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Saving_Warnings(SubVI).vi" Type="VI" URL="../SubVIs/Saving_Warnings(SubVI).vi"/>
 		<Item Name="Visualizacion_NEW.vi" Type="VI" URL="../Visualización/Visualizacion_NEW.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -33,6 +32,7 @@
 			<Item Name="double_2u16.vi" Type="VI" URL="../SubVIs/double_2u16.vi"/>
 			<Item Name="Historical Warnings (SubVI).vi" Type="VI" URL="../SubVIs/Historical Warnings (SubVI).vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Saving_Warnings(SubVI).vi" Type="VI" URL="../SubVIs/Saving_Warnings(SubVI).vi"/>
 			<Item Name="wsock32.dll" Type="Document" URL="wsock32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
