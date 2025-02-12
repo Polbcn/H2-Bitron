@@ -1,4 +1,4 @@
-Endurance Test de Válvulas para Hidrógeno con LabVIEW
+# Endurance Test de Válvulas para Hidrógeno con LabVIEW
 
 Este repositorio contiene el código y la documentación del proyecto de Endurance Test para válvulas por las que circulará hidrógeno. El sistema ha sido desarrollado en LabVIEW y se encarga de la automatización y monitoreo del proceso de prueba.
 
@@ -43,17 +43,13 @@ Comunicación Modbus con sensores y actuadores
 # Clonar este repositorio
 git clone https://github.com/tu_usuario/tu_repositorio.git
 
-# Abrir el proyecto en LabVIEW
-# Conectar los dispositivos de hardware requeridos (cRIO, cámara Peltier, sensores)
-# Ejecutar la interfaz principal para iniciar las pruebas
+- Abrir el proyecto en LabVIEW
+- Conectar los dispositivos de hardware requeridos (cRIO, cámara Peltier, sensores)
+- Ejecutar la interfaz principal para iniciar las pruebas
 
 📜 Licencia
 
-Este proyecto está bajo la licencia MIT, lo que permite su uso y modificación bajo los términos especificados.
+Este proyecto no tiene licencia, por tanto no esta permitido su uso ni distribución
 
-🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, abre un issue o envía un pull request.
-
-📧 Para consultas o soporte, contáctame en [tu correo o perfil de GitHub].
+📧 Para consultas o soporte, contácta a pol.pavo@upc.edu o bien a german.bueno@upc.edu .
 
